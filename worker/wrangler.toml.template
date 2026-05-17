@@ -158,8 +158,8 @@ ENABLE_AUTO_REPLY = false
 
 [[d1_databases]]
 binding = "DB"
-database_name = "xxx"
-database_id = "xxx"
+database_name = "cloudflare_temp_email"
+database_id = "cbb07802-95c0-49ac-8724-93f8755e675e"
 
 # Workers AI binding (required for AI email extraction)
 # [ai]
